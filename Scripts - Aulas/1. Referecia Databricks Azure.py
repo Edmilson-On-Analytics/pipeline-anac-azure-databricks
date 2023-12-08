@@ -3,7 +3,7 @@
 # MAGIC
 # MAGIC ######Referecia Databicks Azure
 # MAGIC
-# MAGIC o que é lakehouse 
+# MAGIC o que é lakehouse:
 # MAGIC https://learn.microsoft.com/pt-br/azure/databricks/lakehouse/
 # MAGIC
 # MAGIC
